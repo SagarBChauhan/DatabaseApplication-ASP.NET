@@ -1,0 +1,4 @@
+E:\Jigna_BMIIT\2018-19\Odd Sem\060010508 - Web Development Using MVC\Practical_Samples\ASP.NET\DatabaseApplication\DatabaseApplication\DatabaseApplication\bin\DatabaseApplication.dll
+E:\Jigna_BMIIT\2018-19\Odd Sem\060010508 - Web Development Using MVC\Practical_Samples\ASP.NET\DatabaseApplication\DatabaseApplication\DatabaseApplication\bin\DatabaseApplication.pdb
+E:\Jigna_BMIIT\2018-19\Odd Sem\060010508 - Web Development Using MVC\Practical_Samples\ASP.NET\DatabaseApplication\DatabaseApplication\DatabaseApplication\obj\Debug\DatabaseApplication.dll
+E:\Jigna_BMIIT\2018-19\Odd Sem\060010508 - Web Development Using MVC\Practical_Samples\ASP.NET\DatabaseApplication\DatabaseApplication\DatabaseApplication\obj\Debug\DatabaseApplication.pdb
